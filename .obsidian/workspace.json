@@ -11,10 +11,14 @@
             "id": "53c9c0b53ae3ce07",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Recaps/Session 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 1"
             }
           }
         ]
@@ -175,13 +179,13 @@
   },
   "active": "53c9c0b53ae3ce07",
   "lastOpenFiles": [
-    "Gods/Lethander.md",
     "README.md",
+    "Recaps/Session 1.md",
+    "Characters/Main Characters/Tapat.md",
+    "Gods/Lethander.md",
     "Untitled.canvas",
     "Monsters/Twinga.md",
     "Characters/Main Characters/Fyndrael.md",
-    "Recaps/Session 1.md",
-    "Characters/Main Characters/Tapat.md",
     "Locations/Kelvin's Cairn.md",
     "Locations/Brin Shander.md",
     "Gods/Auril.md",
