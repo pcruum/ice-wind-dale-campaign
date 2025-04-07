@@ -1,0 +1,1 @@
+Sister of [[Garn the Hammer]]. Works in the shop "Black Iron Blades".

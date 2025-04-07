@@ -1,0 +1,1 @@
+A dwarf, which was killed in the attack of a [[Yeti]] on the Iron caravan.

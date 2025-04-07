@@ -1,0 +1,1 @@
+Druid which lives somewhere in the north. She controlled the [[Dire Wolf]], which attacked the group on the search for the Iron caravan.
