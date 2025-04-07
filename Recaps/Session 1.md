@@ -16,8 +16,5 @@ The first wolf in the bushes gets taken care of in the beginning. [[Tapat]] and 
 
 The group does not follow because [[Vita'e Mors]] teleports to [[Fyndrael]], grabbing him. [[Fyndrael]] in turn teleports away from him. [[Tapat]] tries to intervene, but quickly gives up. In this moment, [[Vita'e Mors]] attacks [[Fyndrael]] with a spell. A short fight erupts between the two in which [[Vita'e Mors]] knocks out [[Fyndrael]]. 
 
-After [[Fyndrael]] wakes up, he leaves the group momentarily since he feels not save around someone who attacked him seemingly without reason. However, later on, he returns to the group and the two discuss the matter. 
-
-Hello, I luege grad öbi so diräkt uf git cha update?
-
+After [[Fyndrael]] wakes up, he leaves the group momentarily since he feels not save around someone who attacked him seemingly without reason. However, later on, he returns to the group and the two discuss the matter.
 
