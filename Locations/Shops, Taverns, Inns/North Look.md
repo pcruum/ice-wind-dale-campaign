@@ -1,0 +1,1 @@
+The liveliest tavern in [[Bryn Shander]], especially among sellswords and would be adventurers.
