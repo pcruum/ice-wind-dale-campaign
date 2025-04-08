@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Regions, Points of Interest/Ten Towns.md",
+                "file": "Monsters/Chwinga.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ten Towns"
+              "title": "Chwinga"
             }
           }
         ],
@@ -222,11 +222,12 @@
   },
   "active": "80dfe958f4b2efd3",
   "lastOpenFiles": [
+    "images.jpg",
+    "Locations/Regions, Points of Interest/Ten Towns.md",
     "Locations/Shops, Taverns, Inns/North Look.md",
     "Locations/Shops, Taverns, Inns/Black Iron Blades.md",
     "Locations/Towns/Bryn Shander.md",
     "Locations/Regions, Points of Interest",
-    "Locations/Regions, Points of Interest/Ten Towns.md",
     "Locations/Towns",
     "Untitled 1",
     "Locations/Shops, Taverns, Inns",
