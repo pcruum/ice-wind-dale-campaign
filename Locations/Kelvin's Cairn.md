@@ -1,2 +1,2 @@
-Mountain in the middle of Icewind Dale. It contains a Dwarven Mine.
+Mountain in the middle of Icewind Dale. It's close to a Dwarven Mine.
 
