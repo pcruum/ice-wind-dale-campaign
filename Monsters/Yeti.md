@@ -1,1 +1,1 @@
-Big monster which attacked the Iron caravan and killed [[Obok]].
+Big monster which attacked the Iron caravan and killed [[Oobok]].
