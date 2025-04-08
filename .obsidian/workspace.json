@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Shops, Taverns, Inns/North Look.md",
+                "file": "Locations/Regions, Points of Interest/Ten Towns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "North Look"
+              "title": "Ten Towns"
             }
           }
         ],
@@ -222,8 +222,8 @@
   },
   "active": "80dfe958f4b2efd3",
   "lastOpenFiles": [
-    "Locations/Shops, Taverns, Inns/Black Iron Blades.md",
     "Locations/Shops, Taverns, Inns/North Look.md",
+    "Locations/Shops, Taverns, Inns/Black Iron Blades.md",
     "Locations/Towns/Bryn Shander.md",
     "Locations/Regions, Points of Interest",
     "Locations/Regions, Points of Interest/Ten Towns.md",
