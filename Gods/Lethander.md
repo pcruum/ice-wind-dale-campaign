@@ -1,1 +1,0 @@
-A Goddess of the sun.
