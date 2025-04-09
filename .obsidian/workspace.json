@@ -53,14 +53,12 @@
             "id": "80dfe958f4b2efd3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Monsters/Chwinga.md",
-                "mode": "source",
-                "source": false
+                "file": "images.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Chwinga"
+              "icon": "lucide-image",
+              "title": "images"
             }
           }
         ],
@@ -222,6 +220,9 @@
   },
   "active": "80dfe958f4b2efd3",
   "lastOpenFiles": [
+    "Monsters/Yeti.md",
+    "Monsters/Dire Wolf.md",
+    "Monsters/Chwinga.md",
     "images.jpg",
     "Locations/Regions, Points of Interest/Ten Towns.md",
     "Locations/Shops, Taverns, Inns/North Look.md",
@@ -237,8 +238,6 @@
     "Characters/Brin Shander/Garn the Hammer.md",
     "Characters/Brin Shander/Oobok.md",
     "Characters/Brin Shander/Elza.md",
-    "Monsters/Chwinga.md",
-    "Monsters/Dire Wolf.md",
     "Locations/Towns/Easthaven.md",
     "Gods/Auril.md",
     "Gods/Lathander.md",
@@ -251,7 +250,6 @@
     "Gods",
     "Untitled 2.md",
     "T.md",
-    "Monsters/Yeti.md",
     "Characters/Main Characters/Arlian.md",
     "Characters/Main Characters/Kahina El-Enna.md",
     "Characters/Main Characters/Vita'e Mors.md",
