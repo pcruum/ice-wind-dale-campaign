@@ -1,0 +1,1 @@
+A mediocre inn in [[Bryn Shander]] owned by [[Frederick Douglas]].

@@ -1,0 +1,2 @@
+A hulking half ork with a friendly and upbeat disposition and the owner of the [[Leaky Barrel]].
+He's a good friend of [[Fyndrael]] and always ready to provide him and his companions cheap shelter in his inn.
