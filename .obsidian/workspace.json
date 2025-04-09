@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goblins.md",
+                "file": "Monsters/Goblins.md",
                 "mode": "source",
                 "source": false
               },
@@ -262,10 +262,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7ba5033ee36e7da",
+  "active": "188d2b6f50f48654",
   "lastOpenFiles": [
     "Monsters/Polar Bear.md",
-    "Goblins.md",
+    "Monsters/Goblins.md",
     "Gods/Auril.md",
     "Gods/Lathander.md",
     "Gods/Amaunator.md",
