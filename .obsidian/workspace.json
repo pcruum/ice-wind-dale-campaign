@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monsters/Goblins.md",
+                "file": "Characters/Main Characters/Tapat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goblins"
+              "title": "Tapat"
             }
           }
         ],
@@ -262,10 +262,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "188d2b6f50f48654",
+  "active": "e7ba5033ee36e7da",
   "lastOpenFiles": [
-    "Monsters/Polar Bear.md",
+    "Characters/Main Characters/Vita'e Mors.md",
+    "Characters/Main Characters/Tapat.md",
+    "Characters/Main Characters/Kahina El-Enna.md",
+    "Characters/Main Characters/Arlian.md",
+    "Characters/Main Characters/Fyndrael.md",
+    "Recaps/Session 1.md",
+    "Locations/Regions, Points of Interest/Kelvin's Cairn.md",
     "Monsters/Goblins.md",
+    "images.jpg",
+    "Monsters/Polar Bear.md",
     "Gods/Auril.md",
     "Gods/Lathander.md",
     "Gods/Amaunator.md",
@@ -278,7 +286,6 @@
     "Characters/Brin Shander/Mishann.md",
     "Characters/Brin Shander/Garn the Hammer.md",
     "Untitled",
-    "images.jpg",
     "Monsters/Yeti.md",
     "Monsters/Dire Wolf.md",
     "Monsters/Chwinga.md",
@@ -288,14 +295,7 @@
     "Untitled 1",
     "Locations/Shops, Taverns, Inns",
     "Locations/Regions, Points of Interest/Dwarven Vally.md",
-    "Locations/Regions, Points of Interest/Kelvin's Cairn.md",
     "Characters/Ravisin.md",
-    "Characters/Brin Shander/Oobok.md",
-    "Characters/Brin Shander/Elza.md",
-    "Locations/Towns/Easthaven.md",
-    "Recaps/Session 1.md",
-    "README.md",
-    "Characters/Main Characters/Tapat.md",
     "Untitled.canvas",
     "Recaps",
     "Gods",
