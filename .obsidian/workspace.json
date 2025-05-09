@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "Arlian"
             }
+          },
+          {
+            "id": "290349b88463313b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Towns/Easthaven.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Easthaven"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -262,8 +276,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7ba5033ee36e7da",
+  "active": "290349b88463313b",
   "lastOpenFiles": [
+    "Locations/Towns/Bryn Shander.md",
+    "Locations/Towns/Easthaven.md",
+    "Characters/Brin Shander/Elza.md",
+    "Characters/Brin Shander/Danika.md",
     "Characters/Main Characters/Tapat.md",
     "Characters/Main Characters/Vita'e Mors.md",
     "Characters/Main Characters/Kahina El-Enna.md",
@@ -277,7 +295,6 @@
     "Gods/Auril.md",
     "Gods/Lathander.md",
     "Gods/Amaunator.md",
-    "Locations/Towns/Bryn Shander.md",
     "Locations/Shops, Taverns, Inns/Leaky Barrel.md",
     "Characters/Brin Shander/Frederick Douglas.md",
     "Locations/Shops, Taverns, Inns/North Look.md",
@@ -289,13 +306,10 @@
     "Monsters/Yeti.md",
     "Monsters/Dire Wolf.md",
     "Monsters/Chwinga.md",
-    "Locations/Shops, Taverns, Inns/Black Iron Blades.md",
     "Locations/Regions, Points of Interest",
     "Locations/Towns",
     "Untitled 1",
     "Locations/Shops, Taverns, Inns",
-    "Locations/Regions, Points of Interest/Dwarven Vally.md",
-    "Characters/Ravisin.md",
     "Untitled.canvas",
     "Recaps",
     "Gods",
