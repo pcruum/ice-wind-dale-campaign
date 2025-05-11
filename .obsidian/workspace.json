@@ -13,16 +13,170 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ravisin.md",
+                "file": "Characters/Easthaven/Danneth Waylen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ravisin"
+              "title": "Danneth Waylen"
+            }
+          },
+          {
+            "id": "7f2123dc3cd6e41a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Easthaven/Imdra Arlaggath.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Imdra Arlaggath"
+            }
+          },
+          {
+            "id": "85f80e1384a3fe08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Easthaven/Jewellery Trader.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jewellery Trader"
+            }
+          },
+          {
+            "id": "236ea09141b55560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Shops, Taverns, Inns/Dream in Gold.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dream in Gold"
+            }
+          },
+          {
+            "id": "9dd39b29aa453a71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Easthaven/Jewellery Trader.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jewellery Trader"
+            }
+          },
+          {
+            "id": "85dd74bd077d45c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Shops, Taverns, Inns/Everything for Everyone.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Everything for Everyone"
+            }
+          },
+          {
+            "id": "6c56fa525fab6792",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Miscellaneous/Chardalyn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chardalyn"
+            }
+          },
+          {
+            "id": "d09cd4ef8de73b81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Miscellaneous/Chardalyn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chardalyn"
+            }
+          },
+          {
+            "id": "e5bf43152e310564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Spine of the World.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spine of the World"
+            }
+          },
+          {
+            "id": "c7224f7ab57f2245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Icewind Dale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Icewind Dale"
+            }
+          },
+          {
+            "id": "2649a30a7080a0ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Sea of Moving Ice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sea of Moving Ice"
+            }
+          },
+          {
+            "id": "d4c4c16c830e5187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Regions, Points of Interest/Dwarven Valley.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dwarven Valley"
             }
           }
         ],
-        "stacked": true
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -95,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Ravisin.md",
+                "file": "Locations/Regions, Points of Interest/Dwarven Valley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +259,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ravisin"
+              "title": "Backlinks for Dwarven Valley"
             }
           },
           {
@@ -129,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Ravisin.md",
+                "file": "Locations/Regions, Points of Interest/Dwarven Valley.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ravisin"
+              "title": "Outline of Dwarven Valley"
             }
           },
           {
@@ -153,7 +307,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,45 +320,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f843d0320be9052c",
+  "active": "188d2b6f50f48654",
   "lastOpenFiles": [
+    "Peoples, Creatures, Monsters/Goblins.md",
+    "Peoples, Creatures, Monsters/Duergar.md",
+    "Locations/Underdark.md",
+    "Locations/Spine of the World.md",
+    "Locations/Sea of Moving Ice.md",
+    "Locations/Icewind Dale.md",
+    "Locations/Towns/Bryn Shander.md",
+    "Miscellaneous/Chardalyn.md",
+    "Untitled",
+    "Miscellaneous/Cursed Statue.md",
+    "README.md",
+    "Peoples, Creatures, Monsters/Dire Wolf.md",
+    "Peoples, Creatures, Monsters/Chwinga.md",
+    "Icewind Dale",
     "Characters/Easthaven/Danneth Waylen.md",
+    "Locations/Shops, Taverns, Inns/Everything for Everyone.md",
+    "Characters/Easthaven/Jewellery Trader.md",
+    "Locations/Shops, Taverns, Inns/Dream in Gold.md",
+    "Miscellaneous",
+    "Characters/Easthaven/Imdra Arlaggath.md",
+    "Characters/Brin Shander/Danika.md",
+    "Characters/Brin Shander/Elza.md",
+    "Characters/Ravisin.md",
     "Locations/Towns/Good Mead.md",
     "Locations/Regions, Points of Interest/Ten Towns.md",
     "Characters/Brin Shander/Mishann.md",
     "Locations/Towns/Easthaven.md",
-    "Characters/Brin Shander/Danika.md",
-    "Monsters/Chwinga.md",
     "Characters/Easthaven",
-    "Locations/Towns/Bryn Shander.md",
-    "Characters/Brin Shander/Elza.md",
     "Characters/Main Characters/Tapat.md",
     "Characters/Main Characters/Vita'e Mors.md",
-    "Characters/Main Characters/Kahina El-Enna.md",
-    "Characters/Main Characters/Arlian.md",
-    "Characters/Main Characters/Fyndrael.md",
-    "Recaps/Session 1.md",
-    "Locations/Regions, Points of Interest/Kelvin's Cairn.md",
-    "Monsters/Goblins.md",
     "images.jpg",
-    "Monsters/Polar Bear.md",
-    "Gods/Auril.md",
-    "Gods/Lathander.md",
-    "Gods/Amaunator.md",
-    "Locations/Shops, Taverns, Inns/Leaky Barrel.md",
-    "Characters/Brin Shander/Frederick Douglas.md",
-    "Locations/Shops, Taverns, Inns/North Look.md",
-    "Locations/Shops, Taverns, Inns/House of the Morninglord.md",
-    "Characters/Brin Shander/Garn the Hammer.md",
     "Locations/Regions, Points of Interest",
     "Locations/Towns",
     "Untitled 1",
     "Locations/Shops, Taverns, Inns",
     "Untitled.canvas",
     "Recaps",
-    "Gods",
-    "Monsters",
-    "Characters/Brin Shander",
-    "Characters/Main Characters"
+    "Gods"
   ]
 }

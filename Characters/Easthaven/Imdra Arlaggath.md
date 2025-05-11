@@ -1,0 +1,1 @@
+She is the captain of [[Easthaven]]s militia. A practical woman with too much on her hands for nonsense.

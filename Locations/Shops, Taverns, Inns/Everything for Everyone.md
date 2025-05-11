@@ -1,0 +1,1 @@
+The largest general goods shop in [[Easthaven]]. Most things a Ten Towner or adventurer might need can be found here.

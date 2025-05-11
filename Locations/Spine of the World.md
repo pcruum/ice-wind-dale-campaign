@@ -1,0 +1,1 @@
+A huge mountain range, isolating [[Icewind Dale]] from the rest of the world. There is one known route to traverse them.

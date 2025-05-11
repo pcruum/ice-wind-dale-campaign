@@ -1,0 +1,3 @@
+A large half ork in a very fine dress for [[Ten Towns]]. He runs the [[Dream in Gold]]. A customer, who he thinks lacks funds, is not worth his time, though there is hardly anyone more polite if he smells money. Always in need of new materials, he is willing to buy gems, though wheter or not he'll pay fairly, is an entirely different question.
+
+At [[Kahina El-Enna]]'s request, he'll contact her about any new aquisitons of [[Chardalyn]] rings.

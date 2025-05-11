@@ -1,1 +1,0 @@
-A vally close to [[Kelvin's Cairn]] that contains a large iron mine. The vast majority of its inhabitants are Shield Dwarves.
