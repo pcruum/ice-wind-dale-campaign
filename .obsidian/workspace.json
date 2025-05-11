@@ -4,123 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "945545a69fbebeba",
+        "id": "618d56f6720f524b",
         "type": "tabs",
         "children": [
           {
-            "id": "53c9c0b53ae3ce07",
+            "id": "ef76fb539401f001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Regions, Points of Interest/Kelvin's Cairn.md",
+                "file": "Characters/Ravisin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kelvin's Cairn"
-            }
-          },
-          {
-            "id": "2cd02106a33e3b06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Regions, Points of Interest/Ten Towns.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ten Towns"
-            }
-          },
-          {
-            "id": "eee3c2c24041e8be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Shops, Taverns, Inns/North Look.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "North Look"
-            }
-          },
-          {
-            "id": "80dfe958f4b2efd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Towns/Bryn Shander.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bryn Shander"
-            }
-          },
-          {
-            "id": "9d2f6894e8298fd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gods/Auril.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Auril"
-            }
-          },
-          {
-            "id": "b70e018a044afe8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monsters/Polar Bear.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Polar Bear"
-            }
-          },
-          {
-            "id": "e7ba5033ee36e7da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Main Characters/Arlian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arlian"
-            }
-          },
-          {
-            "id": "290349b88463313b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Towns/Easthaven.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Easthaven"
+              "title": "Ravisin"
             }
           }
         ],
-        "currentTab": 7
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -193,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Characters/Ravisin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,20 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
-            }
-          },
-          {
-            "id": "461ac4e7718e5dd3",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Backlinks for Ravisin"
             }
           },
           {
@@ -240,12 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Characters/Ravisin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Ravisin"
             }
           },
           {
@@ -259,11 +149,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,12 +166,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "290349b88463313b",
+  "active": "f843d0320be9052c",
   "lastOpenFiles": [
-    "Locations/Towns/Bryn Shander.md",
+    "Characters/Easthaven/Danneth Waylen.md",
+    "Locations/Towns/Good Mead.md",
+    "Locations/Regions, Points of Interest/Ten Towns.md",
+    "Characters/Brin Shander/Mishann.md",
     "Locations/Towns/Easthaven.md",
-    "Characters/Brin Shander/Elza.md",
     "Characters/Brin Shander/Danika.md",
+    "Monsters/Chwinga.md",
+    "Characters/Easthaven",
+    "Locations/Towns/Bryn Shander.md",
+    "Characters/Brin Shander/Elza.md",
     "Characters/Main Characters/Tapat.md",
     "Characters/Main Characters/Vita'e Mors.md",
     "Characters/Main Characters/Kahina El-Enna.md",
@@ -299,13 +195,7 @@
     "Characters/Brin Shander/Frederick Douglas.md",
     "Locations/Shops, Taverns, Inns/North Look.md",
     "Locations/Shops, Taverns, Inns/House of the Morninglord.md",
-    "Locations/Regions, Points of Interest/Ten Towns.md",
-    "Characters/Brin Shander/Mishann.md",
     "Characters/Brin Shander/Garn the Hammer.md",
-    "Untitled",
-    "Monsters/Yeti.md",
-    "Monsters/Dire Wolf.md",
-    "Monsters/Chwinga.md",
     "Locations/Regions, Points of Interest",
     "Locations/Towns",
     "Untitled 1",

@@ -1,0 +1,3 @@
+The Speaker of [[Easthaven]]. He is a soft spoken and kind man, though the troubling current conditions in his town cause him to be more on edge and careful than usual.
+
+[[Arlian]] made two deals with him. He will bring an apperently cursed statue to the [[House of the Morninglord]] where the curse might be lifted. Secondly, he agreed to investigate, what might cause the interruption in mead deliveries from [[Good Mead]].
