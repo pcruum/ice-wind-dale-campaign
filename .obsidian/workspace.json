@@ -167,16 +167,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Regions, Points of Interest/Dwarven Valley.md",
+                "file": "Locations/Towns/Easthaven.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dwarven Valley"
+              "title": "Easthaven"
+            }
+          },
+          {
+            "id": "7dd309ec89f71322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Miscellaneous/Chardalyn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chardalyn"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -249,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Regions, Points of Interest/Dwarven Valley.md",
+                "file": "Miscellaneous/Chardalyn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +273,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dwarven Valley"
+              "title": "Backlinks for Chardalyn"
             }
           },
           {
@@ -283,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Regions, Points of Interest/Dwarven Valley.md",
+                "file": "Miscellaneous/Chardalyn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dwarven Valley"
+              "title": "Outline of Chardalyn"
             }
           },
           {
@@ -320,38 +334,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "188d2b6f50f48654",
+  "active": "7dd309ec89f71322",
   "lastOpenFiles": [
+    "Locations/Icewind Dale.md",
+    "Peoples, Creatures, Monsters/Yeti.md",
+    "Peoples, Creatures, Monsters/Polar Bear.md",
     "Peoples, Creatures, Monsters/Goblins.md",
     "Peoples, Creatures, Monsters/Duergar.md",
-    "Locations/Underdark.md",
-    "Locations/Spine of the World.md",
-    "Locations/Sea of Moving Ice.md",
-    "Locations/Icewind Dale.md",
-    "Locations/Towns/Bryn Shander.md",
-    "Miscellaneous/Chardalyn.md",
-    "Untitled",
-    "Miscellaneous/Cursed Statue.md",
-    "README.md",
     "Peoples, Creatures, Monsters/Dire Wolf.md",
     "Peoples, Creatures, Monsters/Chwinga.md",
-    "Icewind Dale",
-    "Characters/Easthaven/Danneth Waylen.md",
-    "Locations/Shops, Taverns, Inns/Everything for Everyone.md",
-    "Characters/Easthaven/Jewellery Trader.md",
-    "Locations/Shops, Taverns, Inns/Dream in Gold.md",
-    "Miscellaneous",
-    "Characters/Easthaven/Imdra Arlaggath.md",
-    "Characters/Brin Shander/Danika.md",
-    "Characters/Brin Shander/Elza.md",
-    "Characters/Ravisin.md",
-    "Locations/Towns/Good Mead.md",
-    "Locations/Regions, Points of Interest/Ten Towns.md",
-    "Characters/Brin Shander/Mishann.md",
+    "Miscellaneous/Cursed Statue.md",
+    "Miscellaneous/Chardalyn.md",
+    "Locations/Sea of Moving Ice.md",
     "Locations/Towns/Easthaven.md",
+    "Locations/Towns/Good Mead.md",
+    "Locations/Towns/Bryn Shander.md",
+    "Locations/Shops, Taverns, Inns/North Look.md",
+    "Locations/Shops, Taverns, Inns/Leaky Barrel.md",
+    "Locations/Shops, Taverns, Inns/House of the Morninglord.md",
+    "Characters/Brin Shander/Mishann.md",
+    "Locations/Shops, Taverns, Inns/Easthaven's Townhall.md",
+    "Locations/Shops, Taverns, Inns/Everything for Everyone.md",
+    "Locations/Shops, Taverns, Inns/Dream in Gold.md",
+    "Locations/Shops, Taverns, Inns/Black Iron Blades.md",
+    "Locations/Regions, Points of Interest/Ten Towns.md",
+    "Locations/Regions, Points of Interest/Kelvin's Cairn.md",
+    "Locations/Regions, Points of Interest/Dwarven Valley.md",
+    "Characters/Easthaven/Jewellery Trader.md",
+    "Characters/Easthaven/Imdra Arlaggath.md",
+    "Untitled",
+    "Icewind Dale",
+    "Miscellaneous",
     "Characters/Easthaven",
-    "Characters/Main Characters/Tapat.md",
-    "Characters/Main Characters/Vita'e Mors.md",
     "images.jpg",
     "Locations/Regions, Points of Interest",
     "Locations/Towns",

@@ -1,0 +1,2 @@
+A temple to [[Amaunator]] in [[Bryn Shander]]. It is the largest temple in [[Icewind Dale]], though still small in comparison to its equivalents on the outside.
+It is currently maintained by [[Mishann]].

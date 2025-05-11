@@ -1,1 +1,1 @@
-A dwarf, which was killed in the attack of a [[Yeti]] on the Iron caravan.
+A dwarf from the [[Dwarven Valley]], who was killed in the attack of a [[Yeti]], while transporting iron for [[Black Iron Blades]].

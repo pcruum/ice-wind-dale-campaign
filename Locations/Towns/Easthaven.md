@@ -4,8 +4,12 @@ The town seemingly struggles after trade through the ferry and with Good Mead co
 
 
 #### Characters
-- 
+- [[Danneth Waylen]]
+- [[Imdra Arlaggath]]
+- [[Jewellery Trader]]
 
 
 #### Locations
-- 
+- [[Easthaven's Townhall]]
+- [[Dream in Gold]]
+- [[Everything for Everyone]]
