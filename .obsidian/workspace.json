@@ -179,14 +179,12 @@
             "id": "7dd309ec89f71322",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Miscellaneous/Chardalyn.md",
-                "mode": "source",
-                "source": false
+                "file": "Image/Amaunator_symbol.webp"
               },
-              "icon": "lucide-file",
-              "title": "Chardalyn"
+              "icon": "lucide-image",
+              "title": "Amaunator_symbol"
             }
           }
         ],
@@ -247,7 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 215.5
   },
   "right": {
     "id": "8f04f733c42a08d1",
@@ -263,7 +261,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/Chardalyn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +270,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chardalyn"
+              "title": "Backlinks"
             }
           },
           {
@@ -297,13 +294,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/Chardalyn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chardalyn"
+              "title": "Outline"
             }
           },
           {
@@ -315,13 +311,26 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8d8c40ff8c9080e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -334,8 +343,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7dd309ec89f71322",
+  "active": "188d2b6f50f48654",
   "lastOpenFiles": [
+    "Image/Auril_symbol.webp",
+    "Gods/Auril.md",
+    "Image/Amaunator_symbol.webp",
+    "Gods/Amaunator.md",
+    "Gods/Lathander.md",
+    "Image/Chwinga_image.jpg",
+    "Image",
+    "Image/Lathander_symbol.webp",
+    "Miscellaneous/Chardalyn.md",
     "Locations/Icewind Dale.md",
     "Peoples, Creatures, Monsters/Yeti.md",
     "Peoples, Creatures, Monsters/Polar Bear.md",
@@ -344,7 +362,6 @@
     "Peoples, Creatures, Monsters/Dire Wolf.md",
     "Peoples, Creatures, Monsters/Chwinga.md",
     "Miscellaneous/Cursed Statue.md",
-    "Miscellaneous/Chardalyn.md",
     "Locations/Sea of Moving Ice.md",
     "Locations/Towns/Easthaven.md",
     "Locations/Towns/Good Mead.md",
@@ -358,15 +375,9 @@
     "Locations/Shops, Taverns, Inns/Dream in Gold.md",
     "Locations/Shops, Taverns, Inns/Black Iron Blades.md",
     "Locations/Regions, Points of Interest/Ten Towns.md",
-    "Locations/Regions, Points of Interest/Kelvin's Cairn.md",
-    "Locations/Regions, Points of Interest/Dwarven Valley.md",
-    "Characters/Easthaven/Jewellery Trader.md",
-    "Characters/Easthaven/Imdra Arlaggath.md",
-    "Untitled",
     "Icewind Dale",
     "Miscellaneous",
     "Characters/Easthaven",
-    "images.jpg",
     "Locations/Regions, Points of Interest",
     "Locations/Towns",
     "Untitled 1",
