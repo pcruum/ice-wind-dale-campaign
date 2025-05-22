@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b3dd423404fad83",
+        "id": "c4e354736023c0d5",
         "type": "tabs",
         "children": [
           {
-            "id": "f8799e938788a8a8",
+            "id": "0a08257b9a0a4444",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,8 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8799e938788a8a8",
+  "active": "0a08257b9a0a4444",
   "lastOpenFiles": [
+    "T. He runs the [[Dream in Gold.md",
+    "Characters/Easthaven/Tellon Sergoff.md",
     "Characters/Brin Shander/Mishann.md",
     "Locations/Towns/Easthaven.md",
     "Locations/Sea of Moving Ice.md",
@@ -185,7 +187,6 @@
     "Locations/Spine of the World.md",
     "Miscellaneous/Chardalyn.md",
     "Locations/Shops, Taverns, Inns/Everything for Everyone.md",
-    "Characters/Easthaven/Tellon Sergoff.md",
     "Locations/Shops, Taverns, Inns/Dream in Gold.md",
     "Characters/Easthaven/Imdra Arlaggath.md",
     "Characters/Easthaven/Danneth Waylen.md",
@@ -208,7 +209,6 @@
     "Locations/Towns/Bryn Shander.md",
     "Locations/Shops, Taverns, Inns/North Look.md",
     "Locations/Shops, Taverns, Inns/Leaky Barrel.md",
-    "Locations/Shops, Taverns, Inns/House of the Morninglord.md",
     "Icewind Dale",
     "Miscellaneous",
     "Characters/Easthaven",
