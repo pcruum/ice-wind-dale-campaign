@@ -1,0 +1,2 @@
+The former Speaker of [[Good Mead]].
+The locals claim he died from an illness, but no one can agree which one. Additionally, his corpse is covered with what seems like bee stings and tiny patches of riped out flesh.

@@ -1,0 +1,1 @@
+The logger is relatively new to [[Good Mead]], but has gained already enough influence to be one of the two candidates to become the next Speaker.

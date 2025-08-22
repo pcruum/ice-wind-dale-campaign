@@ -1,0 +1,1 @@
+The basement of [[Good Mead]]'s [[Mead Hall]] is occupied by strangely large bees with uncharacteristically large mandibles. They seems to inhabit strange flesh structures.
