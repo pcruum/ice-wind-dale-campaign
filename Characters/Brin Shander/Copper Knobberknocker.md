@@ -1,0 +1,1 @@
+A gnome who lives with [[Mishann]] above the [[House of the Morninglord]].

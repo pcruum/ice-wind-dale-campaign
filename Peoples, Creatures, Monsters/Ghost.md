@@ -1,0 +1,1 @@
+The incorporeal spirit of a deceased person.

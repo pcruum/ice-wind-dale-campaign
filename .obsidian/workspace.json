@@ -83,16 +83,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Shops, Taverns, Inns/Mead Hall.md",
+                "file": "Locations/Shops, Taverns, Inns/House of the Morninglord.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mead Hall"
+              "title": "House of the Morninglord"
+            }
+          },
+          {
+            "id": "9b7f52293175c538",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Shops, Taverns, Inns/House of the Morninglord.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "House of the Morninglord"
+            }
+          },
+          {
+            "id": "99fd04657c7798f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Miscellaneous/Cursed Statue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cursed Statue"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -247,10 +275,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "188d2b6f50f48654",
+  "active": "99fd04657c7798f5",
   "lastOpenFiles": [
-    "Peoples, Creatures, Monsters/Weird bees.md",
+    "Locations/Shops, Taverns, Inns/House of the Morninglord.md",
+    "Peoples, Creatures, Monsters/Ghost.md",
+    "Characters/Brin Shander/Copper Knobberknocker.md",
+    "Locations/Shops, Taverns, Inns/Everything for Everyone.md",
+    "Characters/Brin Shander/Danika.md",
     "Locations/Shops, Taverns, Inns/Mead Hall.md",
+    "Peoples, Creatures, Monsters/Weird bees.md",
     "Locations/Towns/Good Mead.md",
     "Untitled",
     "Mea",
@@ -273,11 +306,6 @@
     "Peoples, Creatures, Monsters/Duergar.md",
     "Characters/Easthaven/Tellon Sergoff.md",
     "T. He runs the [[Dream in Gold.md",
-    "Characters/Brin Shander/Mishann.md",
-    "Locations/Sea of Moving Ice.md",
-    "Locations/Icewind Dale.md",
-    "Locations/Spine of the World.md",
-    "Locations/Shops, Taverns, Inns/Everything for Everyone.md",
     "Image/Amaunator_symbol.webp",
     "Image/Auril_symbol.webp",
     "Image/Chwinga_image.jpg",
