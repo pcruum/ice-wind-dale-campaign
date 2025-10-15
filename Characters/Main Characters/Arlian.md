@@ -5,3 +5,6 @@ Dwarvish
 Celestial
 Common
 
+PP: 11
+HP: 15
+AC: 11
