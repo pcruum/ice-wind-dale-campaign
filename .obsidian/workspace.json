@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d95446d4e9d71f0b",
+        "id": "c7ac4150c21a7f9c",
         "type": "tabs",
         "children": [
           {
-            "id": "87939e0586701b05",
+            "id": "cc6b0a7f3927d282",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Characters/Main Characters/Arlian.md",
-                "bFile": "Characters/Main Characters/Arlian.md",
-                "aRef": ""
+                "file": "Characters/Main Characters/Fyndrael.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Arlian"
+              "icon": "lucide-file",
+              "title": "Fyndrael"
             }
           }
         ]
@@ -177,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87939e0586701b05",
+  "active": "cc6b0a7f3927d282",
   "lastOpenFiles": [
     "Characters/Main Characters/Vita'e Mors.md",
     "Characters/Main Characters/Arlian.md",
